@@ -8,8 +8,6 @@ Run this command in your GitHub CLI
 
 
 
-https://github.com/CodingXpro/Issue-Tracker
-
 # Features
 
 -User can create a Project.
@@ -28,6 +26,4 @@ https://github.com/CodingXpro/Issue-Tracker
 ![Screenshot (142)](https://user-images.githubusercontent.com/101451924/183921522-e9036f9d-7505-4a5d-9a09-52ebbea2835d.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/101451924/183921551-620464d3-ea88-442c-b900-68b71e2845f1.png)
 
-# Hosted URL
 
-https://dem00000.herokuapp.com/
